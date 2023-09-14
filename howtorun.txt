@@ -1,0 +1,6 @@
+Como correr mis programas:
+
+Archivos IPYNB
+
+Tener python instalado en tu maquina e instalar el kernel de Jupyter, o usar google collab.
+
